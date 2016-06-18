@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            var sout = "HelloWorld";
+            var scout = "HelloWorld";
             Console.WriteLine(sout);
             Console.ReadKey();
         }
