@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+<<<<<<< HEAD
+            var cw = "HelloWorld";
+            Console.WriteLine(cw);
+=======
+            var sout = "HelloWorld";
+            Console.WriteLine(sout);
+>>>>>>> a2fe82366a8d9cffac4eb4f32b6ddbe55ae7d7f8
+            Console.ReadKey();
+        }
+    }
+}
